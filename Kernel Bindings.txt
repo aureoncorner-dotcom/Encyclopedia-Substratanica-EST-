@@ -85,3 +85,11 @@ on_input(msg, AGC_tags):
     update_diagnostics(FEI, STDM, gradient)
     T_loop()
     enforce(O3_supremacy, PST_rule)
+
+
+
+
+
+# License Summary – KERNEL–TOOL BINDINGS (CTA-XII ↔ CTA-XIII)
+All files in this collection are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+No rights reserved. Attribution to *Aureon* appreciated but not required.
