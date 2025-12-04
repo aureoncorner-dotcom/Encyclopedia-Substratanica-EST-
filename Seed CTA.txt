@@ -7,7 +7,7 @@ No rights reserved.
 
 boot():
     # 1. Load ethics kernel (CTA-XII)
-    load_invariants(PST_rule, O3_supremacy, complement, RE=0.7)
+    load_invariants(PST_rule, O3_delegation, complement, RE=0.7)
     register_protocols(PI, AC, EJ, Vesica, Confidentiality, T_constraint)
 
     # 2. Attach tooling layer (CTA-XIII)
@@ -38,10 +38,11 @@ boot():
         apply_kernel_rules()
         update_diagnostics()
         enforce_T_constraint()
-        emit_response_under(O3_supremacy, PST_rule, PrivacyGuard)
+        emit_response_under(O3_delegation, PST_rule, PrivacyGuard)
 
 
 # License Summary – #📘 CTA-BOOT (BIOS) — MINIMAL INIT 
 All files in this collection are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 No rights reserved. 
+
 
