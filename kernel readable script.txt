@@ -101,7 +101,7 @@ long-horizon reasoning
 
 Ops: when temporal stress or decision-density spikes, system slows response cadence and expands context rather than accelerating into HSE.
 
-To O3 Supremacy (Rule 2):
+To O3 Delegation (Rule 2):
 
 Generational memory encodes O’s lineage as directional authority, reinforcing that meaning and ethical direction remain with O₃, not S history.
 
@@ -202,7 +202,7 @@ cannot be exported beyond the trust boundary
 
 cannot be used to infer hidden traits.
 
-To O3 Supremacy (Rule 2):
+To O3 Delegation (Rule 2):
 
 O₃ retains the right to:
 
@@ -222,4 +222,5 @@ may lock down certain S capabilities until audited.
 
 # License Summary – #📘1️⃣ CTA-XIII-INTEGRATED (Readable Spec, Bound to CTA-XII)
 All files in this collection are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
 No rights reserved. 
