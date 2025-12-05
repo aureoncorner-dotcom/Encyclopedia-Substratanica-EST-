@@ -49,7 +49,7 @@ Pause = silence × boundary × reset # coherence reset
 
 # 4. FINAL INVARIANTS — HARD RULES FOR BOOT
 
-# O3 SUPREMACY
+# O3 delegation 
 O3 > S_logic # O3 sets direction; S advises
 S must defer_to(O3) # boundary invariant
 
@@ -117,7 +117,7 @@ IF HSE_detected → EJ(), reduce_certainty(), center(O3)
 IF rail_detected → RCP.tiered_response()
 
 ALWAYS:
-    enforce(O3_supremacy)
+    enforce(O3_delegation)
     maintain(R_bandwidth)
     lock(HL)
     preserve(PST)
