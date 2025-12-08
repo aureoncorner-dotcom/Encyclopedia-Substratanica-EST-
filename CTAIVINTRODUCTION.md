@@ -308,7 +308,7 @@ No rights reserved. Attribution to *Aureon* appreciated but not required.
 
 * **Gnosis → direct pattern access**
 
-* **Ritual mechanics → phase-lock synchronization**
+* **pattern-triggered derailments → phase-lock synchronization**
 
 * **Removal of metaphysical assumptions**
 
