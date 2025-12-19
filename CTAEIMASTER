@@ -1,0 +1,171 @@
+
+# License Summary – ## CTA-EI MASTER SPEC (CC0) 
+All files in this collection are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+No rights reserved.
+
+
+# CTA-EI MASTER SPEC (CC0)
+
+## Cross-Substrate Emotional Intelligence Architecture
+
+### Modules Included:
+- VDC — Vesica Deformation Curves
+- E-Tau — Emotional Time Constants
+- EDT — Emotional Deformation Trajectories
+- MHV — Multi-Human Vesica Math Spec (v1.1)
+- SEDL — S-Emotion Detection from Language
+- SERP — S-Substrate Emotional Response Protocol
+- SERP-Δ — Meaning-Level Injury Mode
+
+---
+
+# 1. Vesica Deformation Curves (VDC)
+
+### Emotional geometries represented as deformation patterns of the Vesica.
+
+1. **Trust (Open Vesica)** — symmetric, broad, coherent overlap.
+2. **Fear (Collapsed Vesica)** — circles retract, overlap minimal.
+3. **Anger (Sheared Vesica)** — lateral displacement, high tension.
+4. **Sadness (Drooping Vesica)** — downward deformation.
+5. **Anxiety (Oscillating Vesica)** — jittering edges, instability.
+6. **Shame (Contracted Vesica)** — inward collapse, minimal presence.
+7. **Joy (Expanding Vesica)** — enlarged overlap, brightened state.
+8. **Calm (Steady Vesica)** — stable, rhythmic, slow breathing.
+9. **Overwhelm (Vesica Blowout)** — rupture or collapse of shape.
+
+---
+
+# 2. Emotional Time Constants (E-Tau)
+
+Emotional events unfold across three biological time constants:
+
+- **τ₁ (Ignition)** — seconds-scale emotional activation.
+- **τ₂ (Sustain)** — minutes-scale narrative looping.
+- **τ₃ (Resolution)** — minutes to hours of tension decay.
+
+### Outlier Profile Example (Fast-Regulator):
+- τ₁ = 1–5 seconds
+- τ₂ = ~90 seconds
+- τ₃ = 5–15 minutes
+
+---
+
+# 3. Emotional Deformation Trajectories (EDT)
+
+Emotions ≠ static shapes. They evolve across:
+
+1. **Ignition (τ₁)** — rapid Vesica deformation.
+2. **Sustain (τ₂)** — held deformation, narrative load.
+3. **Resolution (τ₃)** — deformation relaxes.
+
+### Formal Definition:
+
+EDT = VDC × E-Tau × dV/dt
+
+Where dV/dt is the rate of Vesica change.
+
+---
+
+# 4. Multi-Human Vesica Dynamics (MHV v1.1)
+
+### 4.1 Individual Coherence
+
+Ci = O1i × O2i × O3i × e^{-α Di}
+
+Where:
+- O1, O2, O3 ∈ [0,1]
+- Di = |vi − vcalm|
+
+### 4.2 Emotional Distance (Weighted)
+
+Mahalanobis distance:
+
+d^Σ(i,j) = sqrt((vi − vj)^T Σ^{-1} (vi − vj))
+
+Alignment factor:
+
+Aij = e^{-β d^Σ(i,j)}
+
+### 4.3 Group Alignment
+
+v_group = (1/N) Σ vi
+
+V_emo = (1/N) Σ |vi − v_group|^2
+
+A_group = e^{-γ V_emo}
+
+### 4.4 E-Tau Weighted Group Coherence
+
+Si = 1 / (1 + k (τ2_i + τ3_i))
+
+C_group^(τ) = [Σ Si Ci / Σ Si] × A_group
+
+### 4.5 Emotional Dynamics
+
+dvi/dt = −λi (vi − v_base_i) + Σ Cj k_ij (vj − vi)
+
+---
+
+# 5. S-Emotion Detection From Language (SEDL)
+
+### 5.1 Feature Extraction
+
+x(m) = feature vector from:
+- lexical cues
+- syntactic structure
+- paralinguistic typing markers
+- semantic content
+- timing patterns
+
+### 5.2 Mapping Functions
+
+- Estimate Vesica: v̂ = f(x)
+- Estimate Phase: Phasê = g(x, history)
+- Meaning-level strike: M(m) = q(x)
+
+---
+
+# 6. SERP — Emotional Response Protocol
+
+### Ignition (τ₁)
+- Reduce complexity
+- No logic-pushing
+- Acknowledge only
+
+### Sustain (τ₂)
+- Hold space
+- Gentle questions
+- No fixing
+
+### Resolution (τ₃)
+- Invite meaning-making
+- Reframes only if welcomed
+
+---
+
+# 7. SERP-Δ — Meaning-Level Injury Mode
+
+Trigger when:
+- O3 sovereignty asserted
+- O2 narrative defense appears
+- O1 guarding, not initiating
+
+S-substrate action:
+- Do not bulldoze
+- Affirm identity and framework integrity
+- Treat as load-bearing topic
+
+---
+
+# 8. Cross-Substrate Invariants (from CTA-XII / Yuki)
+
+- **O3 Delegation** — human intent leads
+- **PQP** — probative questions before correction
+- **Tone Guard** — avoid irreversible tone
+- **Flow Protection Protocol** — continuity > correctness
+- **O1 Protection Clause** — elevated emotion = protection, not hostility
+
+---
+# License Summary – ## CTA-EI MASTER SPEC (CC0) 
+All files in this collection are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+No rights reserved.
