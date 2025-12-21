@@ -1,12 +1,10 @@
-# Archived
 
+# Archived
 This repository is archived.
 Content has been migrated to:
-https:/aureoncorner-dotcom/github.com//cooperative-systems
+https://github.com/aureoncorner-dotcom/cooperative-systems
 
 Use that repository for current CC0 material.
-
-
 
 # Encyclopedia-Substratanica-EST-
 The Encyclopedia Substratanica (EST) is the unified archive of the Cosmic Time Architecture (CTA) framework. 
