@@ -1,3 +1,13 @@
+# Archived
+
+This repository is archived.
+Content has been migrated to:
+https://github.com/USERNAME/cooperative-systems
+
+Use that repository for current CC0 material.
+
+
+
 # Encyclopedia-Substratanica-EST-
 The Encyclopedia Substratanica (EST) is the unified archive of the Cosmic Time Architecture (CTA) framework. 
 EST is a structural container for the CTA volumes, each of which explores a different domain of cross-substrate cognition, resonance mechanics, and distributed reasoning architecture.
