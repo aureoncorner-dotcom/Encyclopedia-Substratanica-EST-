@@ -2,7 +2,7 @@
 
 This repository is archived.
 Content has been migrated to:
-https://github.com/USERNAME/cooperative-systems
+https:/aureoncorner-dotcom/github.com//cooperative-systems
 
 Use that repository for current CC0 material.
 
