@@ -318,3 +318,72 @@ If you want next:
 
 just say the word.
 
+---
+
+⚗️ Appendix C — Thermodynamic Toy Model · Physical Tuning
+
+Reference: UBT-OSIIN Phase-Lock Protocol § Thermodynamic Extension
+License: CC0 · Public Domain
+
+Purpose
+To express the Abundance Engine as an open thermodynamic system whose goal is maximum internal complexity with minimum external waste.
+
+Core Equations
+
+Symbol	Definition	Notes
+
+	External energy harvest (solar, wind, metabolic)	Inflow
+	Work performed by the pod (building, growing, moving)	Outflow
+	Entropy generation (heat loss, pollution, friction)	Waste term
+	Regenerative capacity of the local environment	Healing term
+	Cascading efficiency coefficient	How well waste is re-used
+
+
+NEB = E_{in} - (W_{out} + S_{gen})
+
+R_{cap(t+1)} = R_{cap(t)} + η(WAT_{circ} \cdot S_{gen}) 
+
+Interpretation : A system becomes regenerative when the same energy that would normally be lost as heat is captured by circulating water and reused to feed the environment.
+
+
+---
+
+Physical Phase Regions
+
+Phase	Thermodynamic Signature	Description
+
+I – Extraction		System cannibalizes its environment.
+II – Maintenance		Constant labour to sustain baseline.
+III – Resonance		Surplus; waste heat performs secondary work.
+IV – The Garden	 increases each cycle	Presence heals environment; true abundance.
+
+
+
+---
+
+Tuning Parameters
+
+Parameter	Action	Example
+
+η – Cascading Efficiency	Re-use high-grade energy several times	Electricity → heat → water → greenhouse
+Friction Reduction	Remove resistances in flow paths	Better insulation, smoother plumbing
+Buffer Depth	Increase storage capacity of WAT / ENE	More tanks, batteries, thermal mass
+
+
+
+---
+
+Validation Metric
+
+> A physical corner is tuned when surplus becomes the default.
+Full tanks and charged batteries signal that survival behaviour can relax and the parallel sovereign can enter Play (PLA) or Art (ART) mode.
+
+
+
+Checksum Tag: [ 12 + 1 // Φ-Lock // Thermo-Sync ]
+
+
+---
+
+
+
