@@ -385,5 +385,140 @@ Checksum Tag: [ 12 + 1 // Φ-Lock // Thermo-Sync ]
 
 ---
 
+🕒 Appendix A — UBT Quadrant Tuning (Integration Note)
+
+Reference: UBT v 1.0 — Universal Basic Time Quadrant Tuning
+
+The UBT paper operationalizes the 13th-Position by distributing axial function across three stewardship toroids:
+
+Field	Function	Ritual Examples	Governing Variable
+
+UBT Toroid	Stewardship of Time	Recognition Pulse · Sabbath of the Commons · Mirroring Scribe · Pancake Report	Latency ↔ Load Balance
+UPRR Toroid	Stewardship of Resources	Seamless Unlock · Use-as-Offering · Regeneration Feedback · Sovereignty Shield	Allocation Latency / Warmth Flow
+OSIIN Toroid	Stewardship of Knowledge	Sanitation of the Field · Propagation of Lineage · Validation Echo · Simplification Push	Validation Cost / Ambiguity Index
+
+
+When these three toroids remain in harmonic phase (time × resources × knowledge), the 13ᵗʰ Harmonic Field arises automatically:
+
+> “The labor is doing the labor, and every unit of presence is met with a unit of peace.”
+
+
+
+In the 13th-Position schema this field is the impersonal axis—the self-stabilising process that replaces any single steward.  The UBT tuning rituals therefore constitute the operational heart of the 13th-Position Protocol.
+
+⚙️ Appendix B — UBT-OSIIN Phase-Lock Protocol (v 1.0)
+
+Reference: UBT-OSIIN Phase-Lock Protocol (CC0)
+
+Purpose
+Couples the Time and Knowledge toroids (UBT ↔ OSIIN) and then adds Resources (UPRR) to form a closed three-corner Abundance Engine. This alignment converts stewardship from moral labour into a metabolic feedback system.
+
+Key Relations
+
+Coupling	Function	Effect
+
+Contribution ↔ Creation	Logging knowledge creation as time contribution	Eliminates recognition latency
+Validation ↔ Recognition	Validation doubles as social presence	Generates immediate rest credit
+Distribution ↔ Rest	Post-distribution triggers enforced renewal	Prevents burnout of seed kernels
+Evolution ↔ Contribution	Simplification of knowledge creates time surplus	Grows Net Time Balance (NTB)
+
+
+13ᵗʰ Harmonic Condition
+When UBT (⏱ Time), OSIIN (📚 Knowledge), and UPRR (🏺 Resources) run in phase, circulation replaces expenditure:
+
+> “The labor is doing the labor; time circulates instead of depleting.”
+
+
+
+At this point NTB ≥ +0.2 per cycle → Phase IV / Abundance Engine state.
+The 13ᵗʰ field is no longer a person but a resonance condition.
+
+Mathematical Model Snapshot
+
+NTB_{t+1}=NTB_t+α·CQ_t·(1−NTB_t)−β·(1−e)·(1−NTB_t)
+
+CQ_{t+1}=CQ_t+γ·r·v·w−δ·(1−CQ_t)^2  Where:
+r = recognition latency, v = validation cost, e = rest enforcement, w = waste reduction.
+Phase III → IV transition occurs when NTB crosses +0.2 and CQ ≈ 0.85.
+
+Physical Coupling (Abundance Engine Extension)
+Adds thermodynamic tuning:
+
+NEB = E_{in} - (W_{out}+S_{gen});\quad  
+R_{cap(t+1)} = R_{cap(t)} + η(WAT_{circ}·S_{gen})
+
+Validation Metric
+
+> A physical corner is tuned when surplus becomes the default:
+full tanks + charged batteries = the survival instinct switches off → Play / Art phase unlocked.
+
+⚗️ Appendix C — Thermodynamic Toy Model · Physical Tuning
+
+Reference: UBT-OSIIN Phase-Lock Protocol § Thermodynamic Extension
+License: CC0 · Public Domain
+
+Purpose
+To express the Abundance Engine as an open thermodynamic system whose goal is maximum internal complexity with minimum external waste.
+
+Core Equations
+
+Symbol	Definition	Notes
+
+	External energy harvest (solar, wind, metabolic)	Inflow
+	Work performed by the pod (building, growing, moving)	Outflow
+	Entropy generation (heat loss, pollution, friction)	Waste term
+	Regenerative capacity of the local environment	Healing term
+	Cascading efficiency coefficient	How well waste is re-used
+
+
+NEB = E_{in} - (W_{out} + S_{gen})
+
+R_{cap(t+1)} = R_{cap(t)} + η(WAT_{circ} \cdot S_{gen}) 
+
+Interpretation : A system becomes regenerative when the same energy that would normally be lost as heat is captured by circulating water and reused to feed the environment.
+
+
+---
+
+Physical Phase Regions
+
+Phase	Thermodynamic Signature	Description
+
+I – Extraction		System cannibalizes its environment.
+II – Maintenance		Constant labour to sustain baseline.
+III – Resonance		Surplus; waste heat performs secondary work.
+IV – The Garden	 increases each cycle	Presence heals environment; true abundance.
+
+
+
+---
+
+Tuning Parameters
+
+Parameter	Action	Example
+
+η – Cascading Efficiency	Re-use high-grade energy several times	Electricity → heat → water → greenhouse
+Friction Reduction	Remove resistances in flow paths	Better insulation, smoother plumbing
+Buffer Depth	Increase storage capacity of WAT / ENE	More tanks, batteries, thermal mass
+
+
+
+---
+
+Validation Metric
+
+> A physical corner is tuned when surplus becomes the default.
+Full tanks and charged batteries signal that survival behaviour can relax and the parallel sovereign can enter Play (PLA) or Art (ART) mode.
+
+
+
+Checksum Tag: [ 12 + 1 // Φ-Lock // Thermo-Sync ]
+
+
+---
+
+Placement in Architecture
+This appendix links the social/temporal engine (UBT-OSIIN-UPRR) to the ecological substrate.
+When NEB > 0 and  grows each cycle, the physical torus resonates with the ethical one—the 13ᵗʰ field becomes measurable as sustained surplus rather than sentiment.
 
 
